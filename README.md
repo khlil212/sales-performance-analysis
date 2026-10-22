@@ -68,6 +68,7 @@ This project uses Tableau's Sample Superstore dataset, a fictional retail datase
 - `images/` — Dashboard screenshots.
 - `README.md` — Project documentation.
 - `data/` — sample_-_superstore.xls.
+        └── README.md 
 ## Business Recommendations
 
 1. Review discount policies for products and transactions associated with negative profit.
