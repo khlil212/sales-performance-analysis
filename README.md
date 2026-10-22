@@ -43,13 +43,13 @@ The goal is to identify business trends, investigate loss-making product categor
 ## Dashboard Preview
 
 ### 1. Sales Overview
-![Sales Overview Dashboard](images/01_Sales_Overview.png)
+![Sales Overview Dashboard](01_Sales_Overview.png)
 
 ### 2. Product and Profitability Analysis
-![Product Profitability Dashboard](images/02_Product_Profitability.png)
+![Product Profitability Dashboard](02_Product_Profitability.png)
 
 ### 3. Discount and Data Quality Analysis
-![Discount and Data Quality Dashboard](images/03_Discount_Data_Quality.png)
+![Discount and Data Quality Dashboard](03_Discount_Data_Quality.png)
 
 ## Project Structure
 
