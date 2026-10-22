@@ -7,6 +7,13 @@ This project analyzes sales performance, profitability, discount strategies, and
 
 The goal is to identify business trends, investigate loss-making product categories, evaluate the relationship between discounts and profitability, and communicate actionable insights through an interactive dashboard.
 
+## Data Source
+
+This project uses Tableau's Sample Superstore dataset, a fictional retail dataset provided for learning and analysis.
+
+- **Source:** [Tableau Public Sample Data](https://public.tableau.com/app/learn/sample-data)
+- **Usage:** Data analysis, SQL practice, and Power BI dashboard development.
+
 ## Business Objectives
 
 - Analyze sales and profit across regions and product categories.
